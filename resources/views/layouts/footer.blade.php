@@ -1,0 +1,53 @@
+  <!-- footer -->
+  <div class="footer">
+    <div class="container">
+        <div class="agile-footer-grids">
+            <div class="col-md-3 agile-footer-grid">
+                <h4></h4>
+                <img src="images/logo.png" />
+            </div>
+            <div class="col-md-3 agile-footer-grid">
+                <h4>History of CKCOHF</h4>
+                <p>Out of the agitation of the Odolewu Women traders for support and assistance, the Properietor of Christ the King Catholic College, Most Rev Dr. Francis Adeshina through the effort of Rev. <span>Frs Patrick Balogun and Emmmanuel Matiluko and <a href="about.html">....</a></span></p>
+            </div>
+            <div class="col-md-3 agile-footer-grid">
+                <h4>Our Services</h4>
+                <ul>
+                    <li class="text"><a href="special_loan.html">Special Loan / Festival Loan</a></li>
+                    <li class="text"><a href="group_lending.html">Group Lending</a></li>
+                    <li class="text"><a href="asset_loan.html">Asset Loan</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 agile-footer-grid">
+                <h4>Navigation</h4>
+                <ul>
+                    <li class="text"><a href="index.html">Home</a></li>
+                    <li class="text"><a href="about.html">About Us</a></li>
+                    <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Services <b class="caret"></b></a>
+                            <ul class="dropdown-menu agile_short_dropdown nav1">
+                                <li><a href="special_loan.html">Special Loan/Festival Loan</a></li>
+                                <li><a href="group_lending.html">Group Lending</a></li>
+                                <li><a href="asset_loan.html">Asset Loan</a></li>
+                                <li><a href="medical.html">Primary Healthcare Scheme</a></li>
+                                <li><a href="scholarship.html">Scholarship Scheme</a></li>
+
+                            </ul>
+                        </li>
+                    <li class="text"><a href="management_board.html">Management Board</a></li>
+                    <li class="text"><a href="#">Reports</a></li>
+                    <li class="text"><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>
+<!-- //footer -->
+<!-- copyright -->
+<div class="agileits-w3layouts-copyright">
+    <div class="container">
+        <p>© 2020 CKCOHF. All rights reserved | Design by <a href="#">O&amp;C IT Solutions</a></p>
+    </div>
+</div>
+<!-- //copyright -->
